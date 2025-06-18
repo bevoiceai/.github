@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+You've found BeVoiceAI on GitHub! Visit [our website](https://bevoiceai.com) to find out what we have to offer, and how to get in touch with us.
+
 <!--
 
 **Here are some ideas to get you started:**
