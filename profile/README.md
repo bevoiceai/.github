@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![BeVoiceAI Splash](https://github.com/user-attachments/assets/f1e67976-1720-48a6-9ee9-505d622497f3)
+
 You've found BeVoiceAI on GitHub! Visit [our website](https://bevoiceai.com) to find out what we have to offer, and how to get in touch with us.
 
 <!--
